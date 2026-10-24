@@ -1,3 +1,8 @@
+> **Archiviert (24.10.2026).** Dieses Repository wird nicht mehr weiterentwickelt.
+> Die aktive Quelle ist [Mitchel85/EAM-Platform](https://github.com/Mitchel85/EAM-Platform)
+> (ein MDG-Leser, eine Wissensbasis, alle Auslieferungen).
+> Der letzte Stand bleibt als Tag `pre-consolidation-2026-10` lesbar.
+
 # ADMBw QEA Analyzer
 
 **▶️ Online ausprobieren:** [mitchel85.github.io/EAM-QEA-Analyzer](https://mitchel85.github.io/EAM-QEA-Analyzer/) — Analyse direkt im Browser, 100 % lokal.
